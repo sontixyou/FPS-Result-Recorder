@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  VarolantVersus
+
+  Created by KENGO on 2020/09/09.
+  Copyright © 2020 KENGO NISHIMURA. All rights reserved.
+*/
+"Win Round" = "勝ちラウンド";
+"Lose Round" = "負けラウンド";
+"Kill Count" = "殺した数";
+"Dead Count" = "死んだ数";
+"Input" = "入力完了";
+"Return" = "戻る";
+"Add" = "追加";
